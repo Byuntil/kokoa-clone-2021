@@ -5,6 +5,7 @@
   width: 100vw;
   background-color: var(--yellow);
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   font-size: 32px;
@@ -15,4 +16,11 @@
   #no-mobile {
     display: none;
   }
+}
+
+#no-mobile i {
+  font-size: 140px;
+  transform: none;
+  display: block;
+  margin-bottom: 40px;
 }
