@@ -6,13 +6,14 @@
 }
 .recommended-friends__title {
   font-size: 14px;
-  color: var(--gray);
+  color: white;
+  margin-bottom: 20px;
 }
 .recommended-friends span {
   display: block;
   margin: 50px 0px;
   text-align: center;
-  color: var(--gray);
+  color: white;
   font-size: 18px;
 }
 .open-chat__header {

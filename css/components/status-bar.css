@@ -35,3 +35,12 @@
   top: 28px;
   right: 65px;
 }
+.status-bar-red {
+  background-color: rgb(209, 71, 71);
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  position: absolute;
+  top: 30px;
+  right: 225px;
+}
