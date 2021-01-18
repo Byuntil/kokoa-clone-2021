@@ -11,7 +11,7 @@
 @import "components/icon-raw.css";
 @import "components/alt-screen-header.css";
 @import "components/no-mobile.css";
-@import "components/landscape.css";
+@import "components/circle.css";
 /* screens */
 
 @import "screen/login.css";
@@ -20,10 +20,12 @@
 @import "screen/more.css";
 @import "screen/settings.css";
 @import "screen/chat.css";
+@import "screen/password.css";
 
 body {
-  color: #2e363e;
+  color: #ffffff;
   font-family: "Open Sans", sans-serif;
+  background-color: #2f3136;
 }
 .main-screen {
   padding: 0px var(--horizontal-space);
